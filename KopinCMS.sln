@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KopinCMS", "KopinCMS\KopinCMS.csproj", "{478915B5-A86E-4908-AB6A-7AB3985D044E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kopin.Core", "Kopin.Core\Kopin.Core.csproj", "{4285BB80-5FB3-4531-927E-3C491978B441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478915B5-A86E-4908-AB6A-7AB3985D044E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478915B5-A86E-4908-AB6A-7AB3985D044E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478915B5-A86E-4908-AB6A-7AB3985D044E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478915B5-A86E-4908-AB6A-7AB3985D044E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4285BB80-5FB3-4531-927E-3C491978B441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4285BB80-5FB3-4531-927E-3C491978B441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4285BB80-5FB3-4531-927E-3C491978B441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4285BB80-5FB3-4531-927E-3C491978B441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

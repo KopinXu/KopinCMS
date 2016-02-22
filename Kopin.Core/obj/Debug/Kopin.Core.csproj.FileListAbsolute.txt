@@ -1,0 +1,4 @@
+C:\Users\Kopin\Desktop\KopinCMS\Kopin.Core\bin\Debug\Kopin.Core.dll
+C:\Users\Kopin\Desktop\KopinCMS\Kopin.Core\bin\Debug\Kopin.Core.pdb
+C:\Users\Kopin\Desktop\KopinCMS\Kopin.Core\obj\Debug\Kopin.Core.dll
+C:\Users\Kopin\Desktop\KopinCMS\Kopin.Core\obj\Debug\Kopin.Core.pdb
